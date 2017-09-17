@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Money Helper</string>
+    <string name="operation_hint_txt">Monto</string>
+    <string name="money_format">S/.</string>
+    <string name="rb_title_1">Ingreso</string>
+    <string name="rb_title_2">Egreso</string>
+    <string name="main_title">Contabilidad de Ingresos / Egresos</string>
+    <string name="main_subtitle_ahorroActual">Saldo Actual Ahorro</string>
+    <string name="main_subtitle_creditoActual">Saldo Actual Crédito</string>
+    <string name="main_subtitle_efectivoActual">Saldo Actual Efectivo</string>
+    <string name="progressbar_title">Proporción Ingresos / Egresos</string>
+    <string name="newoperacion_title">Registrar Ingresos / Egresos</string>
+    <string name="editText_content">Monto</string>
+    <string name="radioButton_textIngreso">Ingreso</string>
+    <string name="radioButton_textEgreso">Egreso</string>
+    <string name="text_labelForm">Tipo de Cuenta</string>
+    <string name="operation_button_action">Registrar</string>
+    <string name="operation_title">Registar Ingresos / Egresos</string>
+    <string-array name="array_tipo_cuenta">
+        <item>Tarjeta de Crédito</item>
+        <item>Ahorro</item>
+        <item>Efectivo</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
