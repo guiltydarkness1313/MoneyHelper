@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void IngresarNuevoRegistro(View view){
         Intent launcher=new Intent(MainActivity.this,NewOperationActivity.class);
+        finish();
         startActivity(launcher);
     }
 }
