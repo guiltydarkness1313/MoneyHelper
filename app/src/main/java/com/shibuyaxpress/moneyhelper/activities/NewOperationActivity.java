@@ -21,6 +21,13 @@ public class NewOperationActivity extends AppCompatActivity {
     RadioGroup groupTipoMonto;
     Spinner spinnerTipoCuenta;
 
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        finish();
+        Intent launcher=new Intent(this,MainActivity.class);
+        startActivity(launcher);
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
