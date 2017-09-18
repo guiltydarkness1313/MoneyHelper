@@ -1,6 +1,4 @@
-package com.shibuyaxpress.moneyhelper.Model;
-
-import com.shibuyaxpress.moneyhelper.R;
+package com.shibuyaxpress.moneyhelper.models;
 
 /**
  * Created by paulf on 16-Sep-17.

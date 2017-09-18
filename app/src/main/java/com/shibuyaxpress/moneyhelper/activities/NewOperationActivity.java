@@ -1,4 +1,4 @@
-package com.shibuyaxpress.moneyhelper.Activities;
+package com.shibuyaxpress.moneyhelper.activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -10,8 +10,7 @@ import android.widget.RadioGroup;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.shibuyaxpress.moneyhelper.Activities.MainActivity;
-import com.shibuyaxpress.moneyhelper.Model.Saldo;
+import com.shibuyaxpress.moneyhelper.models.Saldo;
 import com.shibuyaxpress.moneyhelper.R;
 
 import me.anwarshahriar.calligrapher.Calligrapher;

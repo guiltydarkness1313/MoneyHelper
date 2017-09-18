@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.shibuyaxpress.moneyhelper.Activities.NewOperationActivity">
+    tools:context="com.shibuyaxpress.moneyhelper.activities.NewOperationActivity">
 
     <TextView
         android:id="@+id/textView9"

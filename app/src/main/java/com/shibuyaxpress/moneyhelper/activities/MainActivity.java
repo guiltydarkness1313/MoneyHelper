@@ -1,4 +1,4 @@
-package com.shibuyaxpress.moneyhelper.Activities;
+package com.shibuyaxpress.moneyhelper.activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.shibuyaxpress.moneyhelper.Model.Saldo;
+import com.shibuyaxpress.moneyhelper.models.Saldo;
 import com.shibuyaxpress.moneyhelper.R;
 
 import me.anwarshahriar.calligrapher.Calligrapher;
